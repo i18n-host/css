@@ -1,0 +1,8 @@
+a:hover {
+	filter: var(--hF);
+}
+
+a {
+	cursor: pointer;
+	text-decoration: none;
+}

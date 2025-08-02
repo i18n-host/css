@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+set -ex
+bun x biome format --write

@@ -1,0 +1,8 @@
+hr {
+	background: var(--svgHline) repeat-x 0 50% / 500px;
+	height: 1px;
+	display: block;
+	width: 100%;
+	border: 0;
+	margin: 2rem 0;
+}
